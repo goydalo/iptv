@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1 ,Мужское кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:-1 ,Победа
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:-1 ,Hollywood HD
+https://plbl.m9.lfstrm.tv/amc/normal/1/index.m3u8
+#EXTINF:-1 ,Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 ,Победа
+https://sc.id-tv.kz/Pobeda_36_37.m3u8
+#EXTINF:-1 ,СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 ,Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 ,A2
+https://sc.id-tv.kz/A2_38_39.m3u8
+#EXTINF:-1  tvg-logo="https://karnei4.github.io/convert/AMEDIAHITHD.png",Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 ,Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 ,Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/674565182785323014/catcast.png",FILM TV HD
+http://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1 ,Fox
+http://188.113.190.12/57/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/674565182785323014/catcast.png",vhs 90s
+http://v2.catcast.me/content/37925/index.m3u8
+#EXTINF:-1 ,Дом кино
+https://iptvdom.my1.ru/load/0-0-2-264-20
+#EXTINF:-1 ,Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1  tvg-logo="http://127.0.0.1/",Кинозал 17 (VHS 90s)
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1  tvg-logo="http://127.0.0.1/",Кинозал 27 (akudji)
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 ,Кинозал 9 (Боль)
+https://hls.goodgame.ru/hls/73474.m3u8
+#EXTINF:-1 ,Кинопремьера
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 ,Красная линия
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1 ,Мужское кино
+http://188.113.190.12/316/video.m3u8
+#EXTINF:-1 ,Рен ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 ,Fox HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 ,TV1000 Русское кино
+http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Наш Кинороман HD
+http://ott.watch/stream/IFBYIR5OA7/213.m3u8
+#EXTINF:-1 ,Наше Крутое HD
+http://ott.watch/stream/IFBYIR5OA7/217.m3u8
+#EXTINF:-1 ,Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 ,СССР ТВ
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1 ,Ужастик
+https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1 ,ПРЕМЬЕРА
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1 ,Кинозал 12
+http://v2.catcast.me/content/38896/index.m3u8
+#EXTINF:-1 ,Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1 ,Shot TV
+https://ch.iptvmate.net/5e933c221b143b0b9d00807a.m3u8
+#EXTINF:-1 ,Discovery Channel HD
+http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
+#EXTINF:-1 ,National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 ,Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 ,Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 ,Моя Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,Здоровье ТВ
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+#EXTINF:-1 ,ТВ Экстра HD
+http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
+#EXTINF:-1 ,H2 HD
+http://178.33.37.66/stream/8ASIXG9QVB/65.m3u8
+#EXTINF:-1 ,Приключения HD
+http://80.89.196.34:8085/travel/index.m3u8
+#EXTINF:-1 ,Вот ТВ HD
+http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
+#EXTINF:-1 ,WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Дом кино
+http://178.163.37.104:4022/udp/234.0.0.219:2000
+#EXTINF:-1 ,Paramount Comedy
+http://176.197.77.101:81/udp/239.255.42.16:1234
+#EXTINF:-1 ,Твое ТВ HD
+http://stream-norst.cf:8080/tvoetv/index.m3u8
+#EXTINF:-1 ,TV 1000 Русское кино Int
+http://74.102.118.117:8812/udp/127.0.0.1:5311
+#EXTINF:-1 ,Кинопремьера HD
+http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Киносвидание
+http://94.154.83.88:10000/kinosvidanie
+#EXTINF:-1 ,Star Cinema HD
+http://95.67.12.94:9001
+#EXTINF:-1 ,Star Family
+http://95.67.12.94:9002
+#EXTINF:-1 ,Б-Кінозал
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 ,Любимый HD
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
+#EXTINF:-1 ,Shot
+http://37.17.14.149:8905/play/a00m
+#EXTINF:-1 ,Sony Channel
+https://edge04.beetv.kz/btv/SWM/Sony/Sony_576p_2000kbps.m3u8
